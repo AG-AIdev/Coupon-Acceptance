@@ -20,6 +20,4 @@ than those traveling alone or with kids.
 - Drivers with kids or widowed are less likely to accept bar coupons.
 
 # Conclusion
-Targeting the intended audience can considerably improve the coupon acceptance / redemption. Therefore, marketing efforts should take socioeconomic factors into   
-consideration. This will allow to support a cost-effective marketing efforts. Based on this, marketing efforts should be focused on younger, social, 
-and cost‑sensitive drivers.
+Targeting the intended audience can considerably improve the coupon acceptance / redemption. Therefore, marketing efforts should take socioeconomic factors into consideration. This will allow to support a cost-effective marketing efforts. Based on this, marketing efforts should be focused on younger, social, and cost‑sensitive drivers.

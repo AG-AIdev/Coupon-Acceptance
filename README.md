@@ -1,4 +1,4 @@
-# Coupon-Acceptance
+# Data Analysis on Coupon Acceptance
 # Introduction
 
 - The purpose of this assessment was to determine who is most likely to accept coupons while driving. 
